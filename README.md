@@ -1,0 +1,2 @@
+# Rain-Drop-Sensing-using-Arduino-IOT-
+The rain drop sensor module is a smart and low-cost rain sensing device. It has two parts i.e. a rain sensing pad and a control board. The sensitive sensing pad detects any water present on it while the control board reads these signals and can also binarize them. The rain drop module has a major application in the automobile industry. It can be used to monitor the rain and send closure requests to shutters or windows whenever the rain is detected. 
